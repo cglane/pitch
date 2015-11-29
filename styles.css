@@ -1,0 +1,21 @@
+body, html {
+  min-width: 100%;
+  margin: 0;
+  padding: 0; }
+
+.wrapper {
+  margin: 0;
+  min-width: 100%;
+  overflow: scroll; }
+
+.front-pic {
+  margin: 0;
+  width: 100%; }
+  .front-pic img {
+    min-width: 100%; }
+
+.display-none {
+  display: none; }
+
+.display-block {
+  width: 100%; }
